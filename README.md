@@ -1,2 +1,3 @@
 # data-science
-material for data science
+Some collected materials for data science
+
