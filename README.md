@@ -5,17 +5,25 @@ Some collected materials for data science
 
 ## MATHAMATICS
 
-### Linear Algebra
+- ### Linear algebra
 
-### Calculus
+- ### Calculus
 
-### Probability and Statistics
+- ### Probability and statistics
 
+- ### Discrete mathematics
 
+- ### Numerical analysis
+
+## COMPUTER SCIENCE
+
+- ### Data structure
+
+- ### Algorithm
 
 ## TOOLS FOR DATA SCIENCE
 
-### Python
+### Python Libraries
 
 - **Numpy**
 
